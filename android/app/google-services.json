@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963528147030",
+    "project_id": "nandini-beauty-store",
+    "storage_bucket": "nandini-beauty-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963528147030:android:2442e8ee5de12882d7bbf7",
+        "android_client_info": {
+          "package_name": "com.example.nandini_beauty_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADH5cJASv9mXl4g1FcND5m4FYRc0kRtdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
